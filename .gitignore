@@ -1,2 +1,7 @@
 production
+<<<<<<< HEAD
 Sistema_de_Gerenciamento_de_Veiculos_Automotores.iml
+=======
+Sistema_de_Gerenciamento_de_Veiculos_Automotores.iml
+.gitignore
+>>>>>>> develop
